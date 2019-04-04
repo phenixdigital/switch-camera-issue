@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>LastAccessedDate</key>
+	<date>2019-04-03T08:53:50Z</date>
+	<key>WorkspacePath</key>
+	<string>/Users/rlecostey/Code/PhenixDigital/SwitchCameraIssue/ios/SwitchCameraIssue.xcodeproj</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Phenix Stories doit accéder au micro pour enregistrer des vidéos</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Phenix Stories doit accéder aux caméras pour enregistrer des vidéos</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Phenix Stories doit pouvoir sauvegarder les vidéos créées dans votre bibliothèque de photos</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Phenix Stories doit accéder à votre bibliothèque de photos pour lister les vidéos</string>
+</dict>
+</plist>
